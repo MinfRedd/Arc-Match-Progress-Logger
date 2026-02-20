@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Executables
+*.exe
+*.msi
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Credentials
+credentials.json
+keys/
+No Access Environment/
+
+# OS files
+.DS_Store
+Thumbs.db
